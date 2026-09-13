@@ -1,5 +1,7 @@
 # C.H. Robinson Software Engineering Take-Home Project
 
+> **Live API URL:** [https://c-h-robinson-routing-api.onrender.com](https://c-h-robinson-routing-api.onrender.com)
+
 A backend Node.js & Express REST API that implements a **Breadth-First Search (BFS)** algorithm to 
 determine the shortest logistics routing path of country borders from the United States to a requested
 North American destination. Built with clean architecture and defensive input handling.
